@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Praveen Kesarwani
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Praveen Kesarwani
 
-<!---
-PraveenKesarwaniGL/PraveenKesarwaniGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=praveenkesarwanigl&show_icons=true&theme=gotham" alt="Praveen Kesarwani| Stats" />
+
+</details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{praveenkesarwanigl}/count.svg)
